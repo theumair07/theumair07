@@ -93,6 +93,8 @@ If you find my projects helpful, consider buying me a coffee!
 
 </div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+<em><b>I love building tools that make life easier</b> — whether that’s for a single user or thousands. If you have an idea, let’s make it real!</em>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 </div>
