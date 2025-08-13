@@ -1,7 +1,7 @@
 # Hi there, I'm Umair Khan! 👋
 
-<div align="l">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Chrome+Extension+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<div align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&vCenter=true&width=600&lines=WordPress+Developer;Chrome+Extension+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG"/>
 </div>
 
 ## 🚀 About Me
@@ -48,12 +48,9 @@ Built with performance and user experience in mind, it features smooth animation
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theumair07&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-
-
-
 ## 🏅 GitHub Trophies
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=theumair07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
@@ -76,7 +73,7 @@ const umair = {
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!
 
@@ -86,27 +83,15 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 <a href="https://umairyousafzai.com"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" width="40" alt="Website" /></a>
 
 
-### ☕ Support My Work
+## ☕ Support My Work
 
 If you find my projects helpful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/theumair07)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theumair07&color=6366f1&style=for-the-badge&label=Profile+Views" />
-</div>
-
-<div align="center">
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/theumair07) ![Profile Views](https://komarev.com/ghpvc/?username=theumair07&color=6366f1&style=for-the-badge&label=Profile+Views)
   
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+## 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
