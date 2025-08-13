@@ -77,7 +77,7 @@ const umair = {
 
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology!
 
-<a href="mailto:contact@umairyousafzai.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Email" /></a>
+<a href="mailto:work@umairyousafzai.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" alt="Email" /></a>
 <a href="https://instagram.com/theumair.07"><img src="https://skillicons.dev/icons?i=instagram&theme=light" width="40" alt="Instagram" /></a>
 <a href="https://linkedin.com/in/theumair07"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn" /></a>
 <a href="https://umairyousafzai.com"><img src="https://skillicons.dev/icons?i=wordpress&theme=light" width="40" alt="Website" /></a>
