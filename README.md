@@ -42,7 +42,14 @@ Built with performance and user experience in mind, it features smooth animation
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theumair07&theme=microsoft-dark)](https://git.io/streak-stats)
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theumair07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theumair07&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theumair07&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+
+
 
 ## 🏅 GitHub Trophies
 
