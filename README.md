@@ -48,29 +48,6 @@ Built with performance and user experience in mind, it features smooth animation
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theumair07&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🏅 GitHub Trophies
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=theumair07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-## 🎯 Current Focus
-
-```javascript
-const umair = {
-    currentFocus: ["Chrome Extensions", "Web Applications", "Open Source"],
-    learning: ["Advanced JavaScript Patterns", "Web Performance", "AI Vibe Coding"],
-    goals: {
-        2025: [
-            "Launch 5+ Chrome Extensions",
-            "Contribute to major open source projects",
-            "Share knowledge through blogging"
-        ]
-    },
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
-
 ## 🤝 Let's Connect!
 
 <div align="left">
